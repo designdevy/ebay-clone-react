@@ -1,0 +1,15 @@
+.buttonComponent__container {
+    background-color: #0053a0;
+    border: 1px solid;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    font-family: 'Skin-market-sans', sans-serif;
+    cursor: pointer;
+}
+
+.buttonComponent__container:hover {
+    background-color: #2B0EAF;
+}
