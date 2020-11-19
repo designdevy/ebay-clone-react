@@ -41,6 +41,10 @@ function App() {
                 <Route path="/login">
                     <Login />
                 </Route>
+                <Route path="/coming-soon">
+                    <Header />
+                    <h1>Coming soon!</h1>
+                </Route>
                 <Route path="/">
                     <Header />
                     <Home />

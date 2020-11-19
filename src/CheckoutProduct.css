@@ -21,3 +21,7 @@
 .checkoutProduct__rating {
     display: flex;
 }
+
+.checkoutProduct__info > button {
+    width: 200px;
+}
